@@ -1,0 +1,12 @@
+:root{
+    /*paleta de colores*/
+
+    --primary-color: #8e431f; /*"cafe"*/
+
+    --secondary-color1: #0b0c0c; /*"negro"*/
+    --secondary-color2: #b58934; /*amarillento*/
+    --secondary-color3: #2e2e2e: /*gris*/
+
+    --neutral-light: #fafafa;
+    --neutral-dark: #454565;
+}
